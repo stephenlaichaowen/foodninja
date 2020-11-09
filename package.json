@@ -1,0 +1,13 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --port=8080",
+    "github": "git add . && git commit -m 'commit' && git push origin master"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
