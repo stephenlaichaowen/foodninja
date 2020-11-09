@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "live-server --port=8080",
+    "remote": "git remote add origin https://github.com/stephenlaichaowen/foodninja.git",
     "github": "git add . && git commit -m 'commit' && git push origin master"
   },
   "keywords": [],
